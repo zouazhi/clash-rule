@@ -2,3 +2,4 @@ payload:
 #个人收集
 #Steam下载直连
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamserver.net
